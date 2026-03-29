@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# PeasyPDF Embed Widget
+# Main site: https://peasypdf.com
+# Widget docs: https://widget.peasypdf.com
+# npm: https://www.npmjs.com/package/peasy-pdf-embed
